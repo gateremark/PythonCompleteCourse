@@ -7,7 +7,7 @@ print(li.index('d',0,5))
 print('a' in li) # we use this to avoid the error.
 print('x' in li)
 
-name = 'saurabh'
-print('b' in name) # we can use this with strings as well
+name = 'Mark Gatere'
+print('a' in name) # we can use this with strings as well
 
 print(li.count('d'))
